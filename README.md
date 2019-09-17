@@ -1,4 +1,4 @@
-# Reading-CSV-file-from-SD-Card
+# Reading-CSV-file-from-SD-Card (DATE value)
 
 The goal of the following code is to search for a specific date value (introduced by the user) in a CSV file logged by different sensors. 
 The CSV file includes reading values such as pressure, temperature, altitude, depth, time, and location among others. The data come from 
